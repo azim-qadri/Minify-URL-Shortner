@@ -5,7 +5,7 @@ Minify is a simple and easy-to-use URL shortener that allows you to shorten long
 
 ## How to Use
 
-1. Open the index.html file.
+1. Access the [Minify](https://azim-qadri.github.io/Minify-URL-Shortner/) website.
 
 2. Enter the URL you want to shorten in the input field.
 
