@@ -41,8 +41,5 @@ Minify is licensed under the [MIT License](LICENSE).
 
 Minify uses the shrtco.de API to generate shortened URLs. Please be aware of the terms and conditions of the shrtc.de service before using Minify. We are not responsible for any misuse or violation of the shrtc.de API terms by users of Minify.
 
-## Contact
-
-If you have any questions or need assistance, you can reach out to us at support@example.com.
 
 Thank you for using Minify! We hope you find it helpful for shortening your URLs. Happy sharing! 🚀
